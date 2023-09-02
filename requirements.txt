@@ -10,9 +10,6 @@ jsonschema
 jsonschema-specifications
 Pillow
 psycopg
-pytz
-PyYAML
 referencing
-rpds-py
 uritemplate
 whitenoise
