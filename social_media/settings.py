@@ -32,7 +32,7 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = env('DEBUG')
 APPEND_SLASH=False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['umidas-social-media.onrender.com']
 
 
 # Application definition
